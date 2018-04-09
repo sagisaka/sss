@@ -1,0 +1,11 @@
+body {
+  background: #ccc;
+  p {
+    color: #333;
+  }
+  button {
+    padding:10px;
+    background: #333;
+    color: #fff;
+  }
+}
